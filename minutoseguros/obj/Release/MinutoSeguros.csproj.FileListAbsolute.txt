@@ -1,0 +1,9 @@
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Release\minutoseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Release\minutoseguros.pdb
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Release\minutoseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Release\minutoseguros.pdb
+F:\Projetos\minutoseguros\minutoseguros\bin\Release\minutoseguros.dll
+F:\Projetos\minutoseguros\minutoseguros\bin\Release\minutoseguros.pdb
+F:\Projetos\minutoseguros\minutoseguros\obj\Release\minutoseguros.csprojResolveAssemblyReference.cache
+F:\Projetos\minutoseguros\minutoseguros\obj\Release\minutoseguros.dll
+F:\Projetos\minutoseguros\minutoseguros\obj\Release\minutoseguros.pdb

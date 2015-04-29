@@ -1,0 +1,14 @@
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Debug\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Debug\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Debug\analiseminseguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Debug\analiseminseguros.pdb
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.csprojResolveAssemblyReference.cache
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Debug\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Debug\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Debug\minutoseguros.dll
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Debug\minutoseguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Debug\UnitTestAnaliseMinSeguros.csprojResolveAssemblyReference.cache

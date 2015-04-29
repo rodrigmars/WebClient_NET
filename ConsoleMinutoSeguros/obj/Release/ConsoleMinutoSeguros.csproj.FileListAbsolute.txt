@@ -1,0 +1,14 @@
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\bin\Release\ConsoleMinutoSeguros.exe
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\bin\Release\ConsoleMinutoSeguros.pdb
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\bin\Release\minutoseguros.dll
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\bin\Release\minutoseguros.pdb
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.csprojResolveAssemblyReference.cache
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.exe
+F:\Projetos\analiseminseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.pdb
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Release\ConsoleMinutoSeguros.exe
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Release\ConsoleMinutoSeguros.pdb
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Release\minutoseguros.dll
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Release\minutoseguros.pdb
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.csprojResolveAssemblyReference.cache
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.exe
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Release\ConsoleMinutoSeguros.pdb

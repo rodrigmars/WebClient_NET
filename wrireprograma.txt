@@ -1,0 +1,39 @@
+Tópico 01
+
+Tópico | palavras 	| ocorrências
+01- 	palavras01  	7x ocorrências
+02- 	palavras01 	7x ocorrências
+03- 	palavras01 	7x ocorrências
+04- 	palavras01 	7x ocorrências
+05- 	palavras01 	7x ocorrências
+06- 	palavras01 	7x ocorrências
+07- 	palavras01 	7x ocorrências
+08- 	palavras01 	7x ocorrências
+09- 	palavras01 	7x ocorrências
+10- 	palavras01 	7x ocorrências
+
+Total 115 palavras para o primeiro tópico 
+
+
+Tópico 02
+
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+palavras01 7 ocorrencias
+
+Total 115 palavras para o primeiro tópico 
+
+
+
+    private static string RemoveCaracteres(string texto)
+        {
+            string pattern = @"(?i)[^a-záéíóúàèìòùâêîôûãõç\s]";
+            return Regex.Replace(texto, pattern, string.Empty).Replace("\n", " ");
+        }

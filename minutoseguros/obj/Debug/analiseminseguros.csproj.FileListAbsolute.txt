@@ -1,0 +1,5 @@
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Debug\analiseminseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Debug\analiseminseguros.pdb
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Debug\analiseminseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Debug\analiseminseguros.pdb
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Debug\analiseminseguros.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Release\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Release\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Release\minutoseguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\bin\Release\minutoseguros.pdb
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.csprojResolveAssemblyReference.cache
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\analiseminseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Release\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Release\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\bin\Release\minutoseguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.dll
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.pdb
+F:\Projetos\minutoseguros\UnitTestAnaliseMinSeguros\obj\Release\UnitTestAnaliseMinSeguros.csprojResolveAssemblyReference.cache

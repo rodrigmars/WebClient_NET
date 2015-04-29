@@ -1,0 +1,9 @@
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Debug\minutoseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\bin\Debug\minutoseguros.pdb
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Debug\minutoseguros.dll
+F:\Projetos\analiseminseguros\analiseminseguros\obj\Debug\minutoseguros.pdb
+F:\Projetos\minutoseguros\minutoseguros\bin\Debug\minutoseguros.dll
+F:\Projetos\minutoseguros\minutoseguros\bin\Debug\minutoseguros.pdb
+F:\Projetos\minutoseguros\minutoseguros\obj\Debug\minutoseguros.csprojResolveAssemblyReference.cache
+F:\Projetos\minutoseguros\minutoseguros\obj\Debug\minutoseguros.dll
+F:\Projetos\minutoseguros\minutoseguros\obj\Debug\minutoseguros.pdb

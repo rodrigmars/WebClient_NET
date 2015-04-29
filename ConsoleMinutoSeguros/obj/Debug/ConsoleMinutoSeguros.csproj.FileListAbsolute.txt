@@ -1,0 +1,7 @@
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Debug\ConsoleMinutoSeguros.exe
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Debug\ConsoleMinutoSeguros.pdb
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Debug\minutoseguros.dll
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\bin\Debug\minutoseguros.pdb
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Debug\ConsoleMinutoSeguros.csprojResolveAssemblyReference.cache
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Debug\ConsoleMinutoSeguros.exe
+F:\Projetos\minutoseguros\ConsoleMinutoSeguros\obj\Debug\ConsoleMinutoSeguros.pdb
